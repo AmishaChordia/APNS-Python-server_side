@@ -1,0 +1,11 @@
+aioapns==1.9.1
+asyncio==3.4.3
+cffi==1.14.0
+cryptography==2.9.2
+h2==3.1.1
+hpack==3.0.0
+hyperframe==5.2.0
+pycparser==2.20
+PyJWT==1.7.1
+pyOpenSSL==19.1.0
+six==1.15.0
